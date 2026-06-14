@@ -1,0 +1,19 @@
+{
+  "batches": [
+    {
+      "id": 1,
+      "label": "Batch 1",
+      "file": "batches/batch-001.json"
+    },
+    {
+      "id": 2,
+      "label": "Batch 2",
+      "file": "batches/batch-002.json"
+    },
+    {
+      "id": 3,
+      "label": "Batch 3",
+      "file": "batches/batch-003.json"
+    }
+  ]
+}
