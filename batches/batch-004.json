@@ -1,0 +1,264 @@
+{
+  "metadata": {
+    "competition": "FIFA World Cup 2026",
+    "generatedAt": "2026-06-23T19:12:01.164Z",
+    "matches": 15
+  },
+  "matches": [
+    {
+      "id": "england-ghana-6/23/2026",
+      "league": "FIFA World Cup 2026",
+      "kickoff": "6/23/2026",
+      "homeTeam": "England",
+      "awayTeam": "Ghana",
+      "prediction": {
+        "outcome": "DRAW",
+        "confidence": "HIGH CHANCE"
+      },
+      "signals": {
+        "home": "MID CHANCE",
+        "draw": "HIGH CHANCE",
+        "away": "LOW CHANCE"
+      },
+      "result": null
+    },
+    {
+      "id": "panama-croatia-6/23/2026",
+      "league": "FIFA World Cup 2026",
+      "kickoff": "6/23/2026",
+      "homeTeam": "Panama",
+      "awayTeam": "Croatia",
+      "prediction": {
+        "outcome": "DRAW",
+        "confidence": "HIGH CHANCE"
+      },
+      "signals": {
+        "home": "MID CHANCE",
+        "draw": "HIGH CHANCE",
+        "away": "LOW CHANCE"
+      },
+      "result": null
+    },
+    {
+      "id": "colombia-d.r.-congo-6/23/2026",
+      "league": "FIFA World Cup 2026",
+      "kickoff": "6/23/2026",
+      "homeTeam": "Colombia",
+      "awayTeam": "D.R. Congo",
+      "prediction": {
+        "outcome": "DRAW",
+        "confidence": "MID CHANCE"
+      },
+      "signals": {
+        "home": "LOW CHANCE",
+        "draw": "MID CHANCE",
+        "away": "LOW CHANCE"
+      },
+      "result": null
+    },
+    {
+      "id": "bosnia-&-herzegovina-qatar-6/23/2026",
+      "league": "FIFA World Cup 2026",
+      "kickoff": "6/23/2026",
+      "homeTeam": "Bosnia & Herzegovina",
+      "awayTeam": "Qatar",
+      "prediction": {
+        "outcome": "AWAY",
+        "confidence": "HIGH CHANCE"
+      },
+      "signals": {
+        "home": "LOW CHANCE",
+        "draw": "MID CHANCE",
+        "away": "HIGH CHANCE"
+      },
+      "result": null
+    },
+    {
+      "id": "switzerland-canada-6/23/2026",
+      "league": "FIFA World Cup 2026",
+      "kickoff": "6/23/2026",
+      "homeTeam": "Switzerland",
+      "awayTeam": "Canada",
+      "prediction": {
+        "outcome": "DRAW",
+        "confidence": "HIGH CHANCE"
+      },
+      "signals": {
+        "home": "LOW CHANCE",
+        "draw": "HIGH CHANCE",
+        "away": "MID CHANCE"
+      },
+      "result": null
+    },
+    {
+      "id": "morocco-haiti-6/23/2026",
+      "league": "FIFA World Cup 2026",
+      "kickoff": "6/23/2026",
+      "homeTeam": "Morocco",
+      "awayTeam": "Haiti",
+      "prediction": {
+        "outcome": "DRAW",
+        "confidence": "HIGH CHANCE"
+      },
+      "signals": {
+        "home": "MID CHANCE",
+        "draw": "HIGH CHANCE",
+        "away": "LOW CHANCE"
+      },
+      "result": null
+    },
+    {
+      "id": "scotland-brazil-6/23/2026",
+      "league": "FIFA World Cup 2026",
+      "kickoff": "6/23/2026",
+      "homeTeam": "Scotland",
+      "awayTeam": "Brazil",
+      "prediction": {
+        "outcome": "AWAY",
+        "confidence": "HIGH CHANCE"
+      },
+      "signals": {
+        "home": "LOW CHANCE",
+        "draw": "MID CHANCE",
+        "away": "HIGH CHANCE"
+      },
+      "result": null
+    },
+    {
+      "id": "czech-republic-mexico-6/23/2026",
+      "league": "FIFA World Cup 2026",
+      "kickoff": "6/23/2026",
+      "homeTeam": "Czech Republic",
+      "awayTeam": "Mexico",
+      "prediction": {
+        "outcome": "DRAW",
+        "confidence": "HIGH CHANCE"
+      },
+      "signals": {
+        "home": "MID CHANCE",
+        "draw": "HIGH CHANCE",
+        "away": "LOW CHANCE"
+      },
+      "result": null
+    },
+    {
+      "id": "south-africa-south-korea-6/23/2026",
+      "league": "FIFA World Cup 2026",
+      "kickoff": "6/23/2026",
+      "homeTeam": "South Africa",
+      "awayTeam": "South Korea",
+      "prediction": {
+        "outcome": "DRAW",
+        "confidence": "HIGH CHANCE"
+      },
+      "signals": {
+        "home": "LOW CHANCE",
+        "draw": "HIGH CHANCE",
+        "away": "MID CHANCE"
+      },
+      "result": null
+    },
+    {
+      "id": "curacao-ivory-coast-6/23/2026",
+      "league": "FIFA World Cup 2026",
+      "kickoff": "6/23/2026",
+      "homeTeam": "Curacao",
+      "awayTeam": "Ivory Coast",
+      "prediction": {
+        "outcome": "DRAW",
+        "confidence": "HIGH CHANCE"
+      },
+      "signals": {
+        "home": "LOW CHANCE",
+        "draw": "HIGH CHANCE",
+        "away": "MID CHANCE"
+      },
+      "result": null
+    },
+    {
+      "id": "ecuador-germany-6/23/2026",
+      "league": "FIFA World Cup 2026",
+      "kickoff": "6/23/2026",
+      "homeTeam": "Ecuador",
+      "awayTeam": "Germany",
+      "prediction": {
+        "outcome": "DRAW",
+        "confidence": "HIGH CHANCE"
+      },
+      "signals": {
+        "home": "LOW CHANCE",
+        "draw": "HIGH CHANCE",
+        "away": "MID CHANCE"
+      },
+      "result": null
+    },
+    {
+      "id": "japan-sweden-6/23/2026",
+      "league": "FIFA World Cup 2026",
+      "kickoff": "6/23/2026",
+      "homeTeam": "Japan",
+      "awayTeam": "Sweden",
+      "prediction": {
+        "outcome": "DRAW",
+        "confidence": "HIGH CHANCE"
+      },
+      "signals": {
+        "home": "LOW CHANCE",
+        "draw": "HIGH CHANCE",
+        "away": "MID CHANCE"
+      },
+      "result": null
+    },
+    {
+      "id": "tunisia-netherlands-6/23/2026",
+      "league": "FIFA World Cup 2026",
+      "kickoff": "6/23/2026",
+      "homeTeam": "Tunisia",
+      "awayTeam": "Netherlands",
+      "prediction": {
+        "outcome": "DRAW",
+        "confidence": "HIGH CHANCE"
+      },
+      "signals": {
+        "home": "LOW CHANCE",
+        "draw": "HIGH CHANCE",
+        "away": "MID CHANCE"
+      },
+      "result": null
+    },
+    {
+      "id": "paraguay-australia-6/23/2026",
+      "league": "FIFA World Cup 2026",
+      "kickoff": "6/23/2026",
+      "homeTeam": "Paraguay",
+      "awayTeam": "Australia",
+      "prediction": {
+        "outcome": "DRAW",
+        "confidence": "HIGH CHANCE"
+      },
+      "signals": {
+        "home": "LOW CHANCE",
+        "draw": "HIGH CHANCE",
+        "away": "MID CHANCE"
+      },
+      "result": null
+    },
+    {
+      "id": "turkey-usa-6/23/2026",
+      "league": "FIFA World Cup 2026",
+      "kickoff": "6/23/2026",
+      "homeTeam": "Turkey",
+      "awayTeam": "USA",
+      "prediction": {
+        "outcome": "DRAW",
+        "confidence": "MID CHANCE"
+      },
+      "signals": {
+        "home": "LOW CHANCE",
+        "draw": "MID CHANCE",
+        "away": "LOW CHANCE"
+      },
+      "result": null
+    }
+  ]
+}

@@ -14,6 +14,16 @@
       "id": 3,
       "label": "Batch 3",
       "file": "batches/batch-003.json"
+    },
+    {
+      "id": 4,
+      "label": "Batch 4",
+      "file": "batches/batch-004.json"
+    },
+    {
+      "id": 5,
+      "label" : "Batch 5",
+      "file" :"batches/batch-005.json"
     }
   ]
 }
