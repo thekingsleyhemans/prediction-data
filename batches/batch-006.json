@@ -1,0 +1,271 @@
+{
+  "metadata": {
+    "competition": "FIFA World Cup 2026",
+    "generatedAt": "2026-06-27T19:05:50.135Z",
+    "matches": 14
+  },
+  "matches": [
+    {
+      "id": "south-africa-canada-6/27/2026",
+      "league": "FIFA World Cup 2026",
+      "kickoff": "6/27/2026",
+      "homeTeam": "South Africa",
+      "awayTeam": "Canada",
+      "prediction": {
+        "outcome": "DRAW",
+        "confidence": "HIGH CHANCE"
+      },
+      "signals": {
+        "home": "MID CHANCE",
+        "draw": "HIGH CHANCE",
+        "away": "LOW CHANCE"
+      },
+      "result": null
+    },
+    {
+      "id": "brazil-japan-6/27/2026",
+      "league": "FIFA World Cup 2026",
+      "kickoff": "6/27/2026",
+      "homeTeam": "Brazil",
+      "awayTeam": "Japan",
+      "prediction": {
+        "outcome": "HOME",
+        "confidence": "HIGH CHANCE"
+      },
+      "signals": {
+        "home": "HIGH CHANCE",
+        "draw": "LOW CHANCE",
+        "away": "MID CHANCE"
+      },
+      "result": null
+    },
+    {
+      "id": "germany-paraguay-6/27/2026",
+      "league": "FIFA World Cup 2026",
+      "kickoff": "6/27/2026",
+      "homeTeam": "Germany",
+      "awayTeam": "Paraguay",
+      "prediction": {
+        "outcome": "DRAW",
+        "confidence": "HIGH CHANCE"
+      },
+      "signals": {
+        "home": "MID CHANCE",
+        "draw": "HIGH CHANCE",
+        "away": "LOW CHANCE"
+      },
+      "result": null
+    },
+    {
+      "id": "netherlands-morocco-6/27/2026",
+      "league": "FIFA World Cup 2026",
+      "kickoff": "6/27/2026",
+      "homeTeam": "Netherlands",
+      "awayTeam": "Morocco",
+      "prediction": {
+        "outcome": "DRAW",
+        "confidence": "HIGH CHANCE"
+      },
+      "signals": {
+        "home": "MID CHANCE",
+        "draw": "HIGH CHANCE",
+        "away": "LOW CHANCE"
+      },
+      "result": null
+    },
+    {
+      "id": "ivory-coast-norway-6/27/2026",
+      "league": "FIFA World Cup 2026",
+      "kickoff": "6/27/2026",
+      "homeTeam": "Ivory Coast",
+      "awayTeam": "Norway",
+      "prediction": {
+        "outcome": "DRAW",
+        "confidence": "HIGH CHANCE"
+      },
+      "signals": {
+        "home": "MID CHANCE",
+        "draw": "HIGH CHANCE",
+        "away": "LOW CHANCE"
+      },
+      "result": null
+    },
+    {
+      "id": "france-sweden-6/27/2026",
+      "league": "FIFA World Cup 2026",
+      "kickoff": "6/27/2026",
+      "homeTeam": "France",
+      "awayTeam": "Sweden",
+      "prediction": {
+        "outcome": "HOME",
+        "confidence": "HIGH CHANCE"
+      },
+      "signals": {
+        "home": "HIGH CHANCE",
+        "draw": "MID CHANCE",
+        "away": "LOW CHANCE"
+      },
+      "result": null
+    },
+    {
+      "id": "usa-bosnia-&-herzegovina-6/27/2026",
+      "league": "FIFA World Cup 2026",
+      "kickoff": "6/27/2026",
+      "homeTeam": "USA",
+      "awayTeam": "Bosnia & Herzegovina",
+      "prediction": {
+        "outcome": "DRAW",
+        "confidence": "HIGH CHANCE"
+      },
+      "signals": {
+        "home": "MID CHANCE",
+        "draw": "HIGH CHANCE",
+        "away": "LOW CHANCE"
+      },
+      "result": null
+    },
+    {
+      "id": "australia-egypt-6/27/2026",
+      "league": "FIFA World Cup 2026",
+      "kickoff": "6/27/2026",
+      "homeTeam": "Australia",
+      "awayTeam": "Egypt",
+      "prediction": {
+        "outcome": "DRAW",
+        "confidence": "HIGH CHANCE"
+      },
+      "signals": {
+        "home": "LOW CHANCE",
+        "draw": "HIGH CHANCE",
+        "away": "MID CHANCE"
+      },
+      "result": null
+    },
+    {
+      "id": "vs--",
+      "league": "FIFA World Cup 2026",
+      "kickoff": "",
+      "homeTeam": "vs",
+      "awayTeam": "",
+      "prediction": {
+        "outcome": [
+          "HOME",
+          "DRAW",
+          "AWAY"
+        ],
+        "confidence": "LOW CHANCE"
+      },
+      "signals": {
+        "home": "",
+        "draw": "",
+        "away": ""
+      },
+      "result": null
+    },
+    {
+      "id": "vs--",
+      "league": "FIFA World Cup 2026",
+      "kickoff": "",
+      "homeTeam": "vs",
+      "awayTeam": "",
+      "prediction": {
+        "outcome": [
+          "HOME",
+          "DRAW",
+          "AWAY"
+        ],
+        "confidence": "LOW CHANCE"
+      },
+      "signals": {
+        "home": "",
+        "draw": "",
+        "away": ""
+      },
+      "result": null
+    },
+    {
+      "id": "vs--",
+      "league": "FIFA World Cup 2026",
+      "kickoff": "",
+      "homeTeam": "vs",
+      "awayTeam": "",
+      "prediction": {
+        "outcome": [
+          "HOME",
+          "DRAW",
+          "AWAY"
+        ],
+        "confidence": "LOW CHANCE"
+      },
+      "signals": {
+        "home": "",
+        "draw": "",
+        "away": ""
+      },
+      "result": null
+    },
+    {
+      "id": "vs--",
+      "league": "FIFA World Cup 2026",
+      "kickoff": "",
+      "homeTeam": "vs",
+      "awayTeam": "",
+      "prediction": {
+        "outcome": [
+          "HOME",
+          "DRAW",
+          "AWAY"
+        ],
+        "confidence": "LOW CHANCE"
+      },
+      "signals": {
+        "home": "",
+        "draw": "",
+        "away": ""
+      },
+      "result": null
+    },
+    {
+      "id": "vs--",
+      "league": "FIFA World Cup 2026",
+      "kickoff": "",
+      "homeTeam": "vs",
+      "awayTeam": "",
+      "prediction": {
+        "outcome": [
+          "HOME",
+          "DRAW",
+          "AWAY"
+        ],
+        "confidence": "LOW CHANCE"
+      },
+      "signals": {
+        "home": "",
+        "draw": "",
+        "away": ""
+      },
+      "result": null
+    },
+    {
+      "id": "vs--",
+      "league": "FIFA World Cup 2026",
+      "kickoff": "",
+      "homeTeam": "vs",
+      "awayTeam": "",
+      "prediction": {
+        "outcome": [
+          "HOME",
+          "DRAW",
+          "AWAY"
+        ],
+        "confidence": "LOW CHANCE"
+      },
+      "signals": {
+        "home": "",
+        "draw": "",
+        "away": ""
+      },
+      "result": null
+    }
+  ]
+}
