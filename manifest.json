@@ -29,6 +29,11 @@
       "id": 6,
       "label":"Batch 6",
       "file":"batches/batch-006.json"
+    },
+    {
+      "id":7,
+      "label" :"Batch 7",
+      "file" : "batches/batch-007.json"
     }
   ]
 }
